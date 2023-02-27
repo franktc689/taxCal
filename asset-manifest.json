@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/taxCal/static/css/main.073c9b0a.css",
+    "main.js": "/taxCal/static/js/main.a77dafd8.js",
+    "static/js/787.28cb0dcd.chunk.js": "/taxCal/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/taxCal/index.html",
+    "main.073c9b0a.css.map": "/taxCal/static/css/main.073c9b0a.css.map",
+    "main.a77dafd8.js.map": "/taxCal/static/js/main.a77dafd8.js.map",
+    "787.28cb0dcd.chunk.js.map": "/taxCal/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a77dafd8.js"
+  ]
+}
